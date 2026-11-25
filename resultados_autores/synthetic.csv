@@ -1,0 +1,6 @@
+,density_pearson,density_pearson,density_spearman,density_spearman,trustworthiness,trustworthiness,knn_accuracy,knn_accuracy,spread_ratio_max_to_min,spread_ratio_max_to_min,original_ratio_max_to_min,original_ratio_max_to_min
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+method,,,,,,,,,,,,
+PCA,0.819,0.009,0.824,0.003,0.881,0.0,1.0,0.0,4.013,0.226,4.007,0.031
+UMAP,-0.0,0.055,0.005,0.052,0.898,0.002,1.0,0.0,0.991,0.03,4.007,0.031
+densMAP,0.942,0.002,0.902,0.002,0.881,0.001,1.0,0.0,3.051,0.092,4.007,0.031
